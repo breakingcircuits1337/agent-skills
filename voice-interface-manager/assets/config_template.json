@@ -1,0 +1,8 @@
+{
+  "stt_model": "gemini-2.5-flash",
+  "tts_model": "gemini-2.5-flash",
+  "voice_name": "Aoede",
+  "interface_dir": "~/.voice-interface",
+  "default_volume": 70,
+  "wake_word": "Hey SARAH"
+}
