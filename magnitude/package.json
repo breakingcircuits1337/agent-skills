@@ -1,0 +1,10 @@
+{
+  "name": "@opencode-ai/skill-magnitude",
+  "version": "1.0.0",
+  "description": "Self-improving AI framework for OpenCode BC",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "dependencies": {}
+}
